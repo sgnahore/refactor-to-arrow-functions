@@ -6,8 +6,7 @@
  * @returns result of dividing `firstNum` by `secondNum`
  */
 const divide = (firstNum: number, secondNum: number): number => {
-  const result = firstNum / secondNum;
-  return result;
+ return firstNum / secondNum;
 };
 
 export default divide;
